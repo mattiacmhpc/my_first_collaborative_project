@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AStudent suddenly realises that there is a 
 very nice text, that copes very nicely with 
 what BStudent is about to write. This is why 
@@ -5,3 +6,9 @@ he is creating a new branch and writing
 his text here. 
 *PLACE HOLDER: ASTUDENT'S TEXT*
 
+=======
+Meanwhile BStudent calls up AStudent. BStudent 
+tells him he will improve this part of the text, 
+he will do this on a different branch so that he 
+will not interfere with AStudent’s work.
+>>>>>>> origin/b_modification
